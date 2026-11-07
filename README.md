@@ -1,4 +1,4 @@
-# 🔗 RDP Link
+# 🔗 RDP Link Singular App
 
 **Lightweight remote access.**
 *Open source · Fast · Minimal*
